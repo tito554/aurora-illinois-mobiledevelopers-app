@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aurora-illinois.mobiledevelopers.app/sitemap.xml
